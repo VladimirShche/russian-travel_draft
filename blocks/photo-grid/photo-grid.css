@@ -5,7 +5,6 @@
     display: grid;
     grid-template-columns: repeat(4, 284px);
     grid-template-rows: repeat(3, 213px);
-    gap: 16px 16px;
-    outline: red solid 1px;
+    gap: 16px 16px;    
     justify-content: center;
 }

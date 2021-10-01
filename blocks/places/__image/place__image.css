@@ -1,7 +1,7 @@
 .place__image {
     margin: 0;
-    padding: 0;
-    width: 460px;
+    padding: 0;    
     height: 460px;
+    width: 460px;
     grid-row: 2 / 2;
 }

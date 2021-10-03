@@ -3,9 +3,9 @@
     justify-content: space-between;
     margin: 0;
     padding: 0;
-    width: 1184px;
+    max-width: 1184px;
     height: 52px;
-    padding-top: 28px;
+    padding-top: 46px;
     margin-left: auto;
     margin-right: auto;    
 }

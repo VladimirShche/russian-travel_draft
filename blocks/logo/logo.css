@@ -2,4 +2,11 @@
     margin: 0;
     width: 176px;
     height: 52px;
+    margin-top: -18px;
+}
+
+@media (max-width: 1024px) {
+    .logo {
+        margin-left: 48px;
+    }
 }

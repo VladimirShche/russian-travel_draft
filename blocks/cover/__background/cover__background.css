@@ -1,6 +1,6 @@
 .cover__background {
     background-image: url(../../../images/cover-trains.jpg);
-    width: 1184px;
+    max-width: 1184px;
     height: 740px;
     background-size: cover;
     text-decoration: none;
@@ -29,4 +29,11 @@
 
 .cover__background:hover:after {
     opacity: 0.8;
+}
+
+@media (max-width: 1024px) {
+    .cover__background {
+        max-width: 1184px;
+        height: 640px;
+    }
 }
